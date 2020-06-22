@@ -1,4 +1,4 @@
-# BOLT Local IDP
+# Samal Local IDP
 
 This is a local IDP used to authenticate development.
 
