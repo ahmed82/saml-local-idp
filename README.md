@@ -1,6 +1,6 @@
 # BOLT Local IDP
 
-This is a local IDP used to authenticate BOLT in development.
+This is a local IDP used to authenticate development.
 
 ## Usage
 
